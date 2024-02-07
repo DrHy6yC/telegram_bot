@@ -2,6 +2,6 @@
 Translate and test bot for telegram
 aiogram 2.23.1
 
-Первые пробы написания телеграмм бота
-Все наработки и доработки были сделаны в 
+Попытка переписать бота из  https://github.com/DrHy6yC/SurveyBasis
+Все наработки и доработки были сделаны и перенесены в 
 https://github.com/DrHy6yC/Bot_for_en
